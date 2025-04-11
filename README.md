@@ -5,10 +5,10 @@ This repository documents my journey of solving SQL problems from various platfo
 
 
 ## Folder Structure / 폴더 구조
-📁 sql-practice
-├── programmers/
-├── leetcode/
-├── README.md
+<pre> sql-practice/ 
+  ├── programmers/ 
+  ├── leetcode/ 
+  └── README.md </pre>
 
 
 ## Goal / 목표
